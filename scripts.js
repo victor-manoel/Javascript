@@ -10,3 +10,10 @@ console.log(valorTotal); */
 //let ponto = 150;
 //let tipo = ponto > 50 ? "aprovado" : "reprovado";
 //console.log(tipo);
+
+
+
+// Arrays
+// let familia = [10,20,30,40];
+
+// console.log(familia[2]);
