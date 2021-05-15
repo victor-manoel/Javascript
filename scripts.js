@@ -50,3 +50,9 @@ if (hora > 6 && hora < 13){
 // }
 
 
+//For - descobrir números ímpares
+for (i=0; i<10; i++){
+    if(i%2 !== 0){
+        console.log(i);
+    }
+}
