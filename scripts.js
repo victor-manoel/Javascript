@@ -15,5 +15,20 @@ console.log(valorTotal); */
 
 // Arrays
 // let familia = [10,20,30,40];
-
 // console.log(familia[2]);
+
+
+
+//IF_Else
+/* let hora = 12;
+
+if (hora > 6 && hora < 13){
+    console.log('Bom dia')
+} else if (hora > 12 && hora < 19){
+    console.log('Boa tarde')
+} else {
+    console.log('Boa noite')
+} */
+
+
+
